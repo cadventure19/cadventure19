@@ -45,4 +45,4 @@ Fraud detection, ML pipelines, A/B testing, NLP, LLMs, and building scalable dat
 
 ## Connect with me 🤝  
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/sachin-negi-738ba5190])
+- 💼[LinkedIn](https://www.linkedin.com/in/sachin-negi-738ba5190)
